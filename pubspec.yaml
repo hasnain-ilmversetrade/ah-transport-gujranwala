@@ -33,7 +33,7 @@ dependencies:
   # Localization
   flutter_localizations:
     sdk: flutter
-  intl: ^0.18.1
+  intl: ^0.20.2
 
   # Utilities
   image_picker: ^1.0.4
